@@ -1,0 +1,129 @@
+body {
+  background-color: rgb(109, 161, 140);
+  color: #333333;
+}
+
+.padding {
+  padding: 3rem 0rem 3rem 6rem !important;
+}
+
+.user-card-full {
+  overflow: hidden;
+}
+
+.card {
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
+  box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
+  border: none;
+  margin-bottom: 30px;
+}
+
+.user-card-full .user-profile {
+  border-radius: 5px 0 0 5px;
+}
+
+.bg-c-lite-green {
+  background: radial-gradient(rgb(109, 161, 140), rgb(204, 247, 227));
+}
+
+.user-profile {
+  padding: 20px 0;
+}
+
+.card-block {
+  padding: 1.25rem;
+}
+
+.m-b-25 {
+  margin-bottom: 25px;
+}
+
+.img-radius {
+  border-radius: 50%; /* Make the image circular */
+  width: 100px; /* Set the width of the circular image */
+  height: 100px; /* Set the height of the circular image */
+  object-fit: cover; /* Ensure the image covers the circular container */
+}
+
+h6 {
+  font-size: 14px;
+}
+
+.card .card-block p {
+  line-height: 25px;
+}
+
+.card-block {
+  padding: 1.25rem;
+}
+
+.b-b-default {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.m-b-20 {
+  margin-bottom: 20px;
+}
+
+.p-b-5 {
+  padding-bottom: 5px !important;
+}
+
+.m-b-10 {
+  margin-bottom: 10px;
+}
+
+.text-muted {
+  color: #919aa3 !important;
+}
+
+.f-w-600 {
+  font-weight: 600;
+}
+
+.social-link li {
+  display: inline-block;
+}
+
+.social-link li a {
+  font-size: 20px;
+  margin: 0 10px 0 0;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.form-group textarea {
+  margin-top: 1rem;
+}
+
+.button {
+  display: flex;
+  margin-top: 1rem;
+  justify-content: center;
+}
+
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+  margin-top: 100px;
+}
+
+.footer .container {
+  text-align: center;
+}
+
+.footer span {
+  font-size: 16px;
+  color: #6c757d;
+}
+
+.footer a {
+  color: #6c757d;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #495057;
+}
